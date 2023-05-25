@@ -1,0 +1,1 @@
+vless://Legenderyking@128.140.2.6:443?mode=gun&security=reality&encryption=none&pbk=mzevpYbS8kXengBY5p7tt56QE4tS3lwlwRemmkcQeyc&fp=chrome&type=grpc&serviceName=@LegenderY_Servers&sni=cdn-download1.zula.ir#Reality+1
