@@ -15,7 +15,7 @@ vless://7e88e86d-2441-4587-98c3-853695874264@shop240.globalingredients.pe:2083?m
 
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@149.202.82.172:5001#%40Helix_Servers+ShadowSocks
 
-vless://Legenderyking@128.140.2.6:443?mode=gun&security=reality&encryption=none&pbk=mzevpYbS8kXengBY5p7tt56QE4tS3lwlwRemmkcQeyc&fp=chrome&type=grpc&serviceName=@LegenderY_Servers&sni=cdn-download1.zula.ir#Reality+1
+vless://Legenderyking@128.140.2.6:443?mode=gun&security=reality&encryption=none&pbk=rJFC3dUjJxMnVZiUGzmf_LFsJUwFWY-CU5RQgFOHCWM&fp=chrome&type=grpc&serviceName=@LegenderY_Servers&sni=cdn-download1.zula.ir#Reality+1
 
 ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@145.239.1.100:6697#%40Helix_Servers+ShadowSocks
 
