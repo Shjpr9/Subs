@@ -26,3 +26,5 @@ ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@145.239.1.100:2375#%40Helix_Servers+Sh
 ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@149.202.82.172:2376#%40Helix_Servers+ShadowSocks
 
 ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@145.239.1.100:5004#%40Helix_Servers+ShadowSocks
+
+vless://da85e7a5-98b2-453d-e429-d26e2ba61b0a@helixservers2.seatech.ir:8443?mode=gun&security=reality&encryption=none&pbk=vLmM__d2aKyqh70p38E7PsH1hTXGmqF35o815n6XRlY&fp=firefox&spx=%2Fen%2Fweather-forecasts&type=grpc&serviceName=&sni=cdn.accuweather.com&sid=2e502766#%F0%9F%87%A9%F0%9F%87%AA+%40Helix_Servers+Reality+MCI-TCI-Rightell
