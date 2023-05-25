@@ -16,3 +16,13 @@ vless://7e88e86d-2441-4587-98c3-853695874264@shop240.globalingredients.pe:2083?m
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@149.202.82.172:5001#%40Helix_Servers+ShadowSocks
 
 vless://Legenderyking@128.140.2.6:443?mode=gun&security=reality&encryption=none&pbk=mzevpYbS8kXengBY5p7tt56QE4tS3lwlwRemmkcQeyc&fp=chrome&type=grpc&serviceName=@LegenderY_Servers&sni=cdn-download1.zula.ir#Reality+1
+
+ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@145.239.1.100:6697#%40Helix_Servers+ShadowSocks
+
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@149.202.82.172:7001#%40Helix_Servers+ShadowSocks
+
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@145.239.1.100:2375#%40Helix_Servers+ShadowSocks
+
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@149.202.82.172:2376#%40Helix_Servers+ShadowSocks
+
+ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@145.239.1.100:5004#%40Helix_Servers+ShadowSocks
