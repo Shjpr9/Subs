@@ -1,3 +1,5 @@
+vless://25f5c580-fbeb-4cfc-d458-b9256c13e7e0@38.60.204.94:443?encryption=none&security=reality&sni=telewebion.com&fp=firefox&pbk=l4rJRttC329egj7spJE--HkcFj6TGF9NyNsa2jkO5zA&sid=9e641e47&spx=%2F&type=grpc&serviceName=telewebion.com&mode=gun#%40OPiranClub-aqfd3k6q
+
 vless://Legenderyking@128.140.2.6:443?mode=gun&security=reality&encryption=none&pbk=O9RSr5gSdok2K_tobQnf_scyKVqnCx6C4Jrl7_rCZEQ&fp=chrome&type=grpc&serviceName=@LegenderY_Servers&sni=zula.ir&sid=86a0b52e#Reality+1
 
 vmess://eyJhZGQiOiJoZWxpeHNlcnZlcnMyLnNlYXRlY2guaXIiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6InRlbGV3ZWJpb24uY29tIiwiaWQiOiJhZDQ3YjNkNy1kMjQ4LTQ0MTQtY2JjNy05ODgyOGU3YjliNWQiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBvcnQiOiIxMDAxMCIsInBzIjoi8J+HqfCfh6ogQEhlbGl4X1NlcnZlcnMgVENQIE1DSS1UQ0ktUmlnaHRlbGwgMSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIn0=
