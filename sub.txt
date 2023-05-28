@@ -6,7 +6,7 @@ vmess://eyJhZGQiOiI1MS4xNS40Ni43OSIsImFpZCI6IjAiLCJob3N0Ijoid3d3LmJhaWR1LmNvbSIs
 
 vmess://eyJhZGQiOiIzNy4yNTIuNS4yMzQiLCJhaWQiOiIwIiwiaG9zdCI6InNvZnQ5OC5pciIsImlkIjoiODk4OTk4NmUtMjQ5NS00MDViLThhNDYtZDE3MjAzMThlMTg4IiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiI0NDMiLCJwcyI6Itin2LPYqtiu2LHYp9isINi02K/ZhyBOVEdyZWVuQCIsInNjeSI6ImFlcy0xMjgtZ2NtIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Imh0dHAiLCJ2IjoiMiJ9
 
-vless://Legenderyking@49.13.15.89:443?mode=gun&security=reality&encryption=none&pbk=CjulQ2qVIky7ImIfysgQhNX7s_drGLheCGSkVHcLZhc&fp=safari&type=grpc&serviceName=@LegenderY_Servers&sni=zula.ir&sid=af2272c6#Reality+1
+vless://Legenderyking@49.13.15.89:443?mode=gun&security=reality&encryption=none&pbk=HYyIGuyNFslmcnNT7mrDdmuXwn4cm7smE_FZbYguKHQ&fp=chrome&type=grpc&serviceName=@LegenderY_Servers&sni=zula.ir&sid=be16b51f#Reality+1
 
 vless://abbe58ad-1329-467d-a4d6-a4b622047f12@mtn.joyboy1337.xyz:2087?mode=multi&security=tls&encryption=none&type=grpc&serviceName=Helix1&sni=helix.pirooz.xyz#%40Helix_Servers+MTN+%2F+Rightell
  
