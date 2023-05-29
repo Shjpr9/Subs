@@ -33,4 +33,4 @@ vless://726d7458-dede-4aaf-be0f-2d5d951f1bce@dvd2.foxnim.info:443?mode=gun&secur
 
 vless://726d7458-dede-4aaf-be0f-2d5d951f1bce@dvd3.foxnim.info:443?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@foxnim&sni=dvd.foxnim.info#%40foxnim
 
-vless://Legenderyking@49.13.15.89:443?mode=gun&security=reality&encryption=none&pbk=VcqHivYGGoBkcxOI6cSSjQmneltstkb2OhvO53dyhEM&fp=chrome&type=grpc&serviceName=@LegenderY_Servers Telegram  @LegenderY_Servers Telegram  @LegenderY_Servers Telegram  @LegenderY_Servers Telegram  @LegenderY_Servers Telegram  @LegenderY_Servers Telegram  @LegenderY_Servers Telegram  @LegenderY_Servers Telegram  @LegenderY_Servers Telegram  @LegenderY_Servers Telegram&sni=zula.ir&sid=41d47a53#Reality+1
+vless://LegenderY_Servers@49.13.6.89:443?path=@LegenderY_Servers&security=reality&encryption=none&pbk=jh9aZKmgRkY7sKif0pHBYg1Z9Sb15xFR2VUkahtsqj4&fp=chrome&type=http&sni=sdk.crazygames.com&sid=ccaccd39#Reality+2
