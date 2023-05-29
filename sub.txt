@@ -1,36 +1,27 @@
+vless://1f46874b-08ea-4193-e523-80687ee1e8cb@ftp.opiraninsitute.ml:40135?encryption=none&flow=xtls-rprx-vision&security=reality&sni=zula.ir&fp=chrome&pbk=byfAvt2g3MaWsfO33iROmiMSq5f6U06fFbBUY8vKXBo&sid=464ca13f&spx=%2F&type=tcp&headerType=none&host=ftp.opiraninsitute.ml#%40OPIranclub
+
+vless://LegenderY_Servers@49.13.6.89:443?path=@LegenderY_Servers&security=reality&encryption=none&pbk=jh9aZKmgRkY7sKif0pHBYg1Z9Sb15xFR2VUkahtsqj4&fp=chrome&type=http&sni=sdk.crazygames.com&sid=ccaccd39#Reality+2
+
 vless://ead02a5d-6dd6-485b-fbde-8f1c6359d040@Telegram-Helix-Servers.cnew.ir:443?mode=multi&security=reality&encryption=none&pbk=mCnOK5nURukkqf8CZnA8E05jA_NTHJENhcEufgoIcEo&fp=firefox&spx=%2Fsystem-requirements&type=grpc&serviceName=@Helix_Servers&sni=zula.ir&sid=02e73a04#%40Helix_Servers+Reality+%233
 
 vless://bde40a42-ce45-4429-e1e9-f380b0a36f0f@Telegram-Helix-Servers.cnew.ir:1443?mode=multi&security=reality&encryption=none&pbk=wtPxdyOGHguUU6_eRUpPa7Lf5LexSKaua13EG3RKuXk&fp=firefox&spx=%2Fnitro&type=grpc&serviceName=@Helix_Servers&sni=discord.com&sid=864cc576#%40Helix_Servers+Reality+%232
 
-
 vless://c6d15eed-f61e-4ece-92e5-47c5a6969b32@45.128.232.22:8443?mode=multi&security=reality&encryption=none&pbk=u4QtcbODopBDWNdILzNY_NwFTeJ8a-0JY_nzf6U5Llk&fp=firefox&spx=%2Fen%2Fweather-forecasts&type=grpc&serviceName=HelixServers&sni=cdn.accuweather.com&sid=d8ced5c0#%40Helix_Servers+Reality
-
 
 vless://48d91cb0-7ebb-45ac-8620-5b93490b5e54@Telegram-Helix-Servers.cnew.ir:10010?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#%40Helix_Servers+TCP+%231
 
-
 vless://1606b915-1bd1-46f6-9dea-61852acc1ece@Telegram-Helix-Servers.cnew.ir:10020?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#%40Helix_Servers+TCP+%232
-
 
 vless://a56c80ad-0b4c-4c58-ecca-eda06c512d2c@45.128.232.22:1443?mode=multi&security=reality&encryption=none&pbk=n1ylL8uZOmiSyVf9BxNoi6reaF9r2ZeLsR79gdxn8EI&fp=firefox&spx=%2Fnitro&type=grpc&serviceName=HelixServers&sni=discord.com&sid=03cbb36b#%40Helix_Servers+Reality+%233
 
-
 vless://5bde7288-c7a3-4cc9-dc03-5cfb84942e16@45.128.232.22:443?mode=multi&security=reality&encryption=none&pbk=Vg32sQ2Xet-MdCIo3_SGBDLN_fjPI58mU4PsftqJKVA&fp=firefox&spx=%2Fsystem-requirements&type=grpc&serviceName=HelixServers&sni=zula.ir&sid=a1af3268#%40Helix_Servers+Reality+%232
-
 
 vless://33ac797e-6ad0-468f-fde8-4026d5bbb1c7@Telegram-Helix-Servers.cnew.ir:10030?security=none&encryption=none&host=alibaba.com&headerType=http&type=tcp#%40Helix_Servers+TCP+%233
 
-
 vless://48d91cb0-7ebb-45ac-8620-5b93490b5e54@Telegram-Helix-Servers.cnew.ir:10010?security=none&encryption=none&host=nobitex.ir&headerType=http&type=tcp#%40Helix_Servers+TCP+%234
 
-vless://726d7458-dede-4aaf-be0f-2d5d951f1bce@dvd.foxnim.info:443?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@foxnim&sni=dvd.foxnim.info#%40foxnim
+vless://c6d15eed-f61e-4ece-92e5-47c5a6969b32@45.128.232.22:8443?mode=multi&security=reality&encryption=none&pbk=u4QtcbODopBDWNdILzNY_NwFTeJ8a-0JY_nzf6U5Llk&fp=firefox&spx=%2Fen%2Fweather-forecasts&type=grpc&serviceName=HelixServers&sni=cdn.accuweather.com&sid=d8ced5c0#%40Helix_Servers+Reality+%231
 
+vless://5bde7288-c7a3-4cc9-dc03-5cfb84942e16@45.128.232.22:443?mode=multi&security=reality&encryption=none&pbk=Vg32sQ2Xet-MdCIo3_SGBDLN_fjPI58mU4PsftqJKVA&fp=firefox&spx=%2Fsystem-requirements&type=grpc&serviceName=HelixServers&sni=zula.ir&sid=a1af3268#%40Helix_Servers+Reality+%232
 
-
-vless://726d7458-dede-4aaf-be0f-2d5d951f1bce@dvd2.foxnim.info:443?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@foxnim&sni=dvd.foxnim.info#%40foxnim
-
-
-
-vless://726d7458-dede-4aaf-be0f-2d5d951f1bce@dvd3.foxnim.info:443?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@foxnim&sni=dvd.foxnim.info#%40foxnim
-
-vless://LegenderY_Servers@49.13.6.89:443?path=@LegenderY_Servers&security=reality&encryption=none&pbk=jh9aZKmgRkY7sKif0pHBYg1Z9Sb15xFR2VUkahtsqj4&fp=chrome&type=http&sni=sdk.crazygames.com&sid=ccaccd39#Reality+2
+vless://a56c80ad-0b4c-4c58-ecca-eda06c512d2c@45.128.232.22:1443?mode=multi&security=reality&encryption=none&pbk=n1ylL8uZOmiSyVf9BxNoi6reaF9r2ZeLsR79gdxn8EI&fp=firefox&spx=%2Fnitro&type=grpc&serviceName=HelixServers&sni=discord.com&sid=03cbb36b#%40Helix_Servers+Reality+%233
