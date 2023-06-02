@@ -1,4 +1,4 @@
-vless://Legenderyking@49.13.15.89:443?mode=gun&security=reality&encryption=none&pbk=goY3OtfaA4UYbiz7Hn0NysI5QJrK0VT_Chg6RLgUPQU&fp=chrome&type=grpc&serviceName=@LegenderY_Servers,@LegenderY_Servers,@LegenderY_Servers,@LegenderY_Servers,@LegenderY_Servers,@LegenderY_Servers,@LegenderY_Servers,@LegenderY_Servers,@LegenderY_Servers,@LegenderY_Servers,@LegenderY_Servers&sni=account.zula.ir&sid=7cddfba1#Reality+1
+vless://Legenderyking@49.13.15.89:443?mode=gun&security=reality&encryption=none&pbk=HYyIGuyNFslmcnNT7mrDdmuXwn4cm7smE_FZbYguKHQ&fp=chrome&type=grpc&serviceName=@LegenderY_Servers,@LegenderY_Servers,@LegenderY_Servers,@LegenderY_Servers,@LegenderY_Servers,@LegenderY_Servers,@LegenderY_Servers,@LegenderY_Servers,@LegenderY_Servers,@LegenderY_Servers,@LegenderY_Servers&sni=account.zula.ir&sid=78b6e2d5#Reality+1
 
 vless://AmirTechno_Service@[::ffff:58c6:7a89]:2096?type=tcp&security=reality&fp=chrome&pbk=_PsRfUWX-j_bKh7Xb7w2RpQAIzeNTmQf9F0F-Rg0j1Y&sni=cdn.accuweather.com&flow=xtls-rprx-vision-udp443&sid=7060d516&spx=%2Fen%2Fde%2Fnuremberg%2F90402%2Fweather-forecast%2F167559%2F#@AmirTechno_Service
 
