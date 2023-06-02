@@ -1,11 +1,11 @@
-vless://Legenderyking@49.13.15.89:443?mode=gun&security=reality&encryption=none&pbk=rJFC3dUjJxMnVZiUGzmf_LFsJUwFWY-CU5RQgFOHCWM&fp=chrome&type=grpc&serviceName=@LegenderY_Servers,@LegenderY_Servers,@LegenderY_Servers,@LegenderY_Servers,@LegenderY_Servers,@LegenderY_Servers,@LegenderY_Servers,@LegenderY_Servers,@LegenderY_Servers,@LegenderY_Servers,@LegenderY_Servers&sni=account.zula.ir&sid=4c64bba8#Reality+1
-vless://6f4f3ebd-54d3-4940-869b-1ab4a3b53893@tg.foxnim.info:443?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#%40foxnim
-vless://81241a14-30b8-4c81-fc51-4654054f81c6@91.107.254.180:1443?mode=multi&security=reality&encryption=none&pbk=7ry0ZKAbHwRCdvVyd-JlOUwmYdyUVXH3Eiv5F4ZZHGg&fp=firefox&spx=%2Fen%2Fweather-forecasts&type=grpc&serviceName=@Helix_Servers @Helix_Servers @Helix_Servers&sni=cdn.accuweather.com&sid=6ed6081c#%40Helix_Servers+Reality-1
-vless://6878e845-e95a-4c9f-8779-e04777df1b6e@91.107.254.180:443?mode=multi&security=reality&encryption=none&pbk=ThHIVsB6Y2F4HxjTXuerICFue63tEozlOIF1xwJFJwo&fp=firefox&spx=%2Fnitro&type=grpc&serviceName=@Helix_Servers @Helix_Servers @Helix_Servers&sni=discord.com&sid=6bd899b3#%40Helix_Servers+Reality-2
+vless://Legenderyking@49.13.15.89:443?mode=gun&security=reality&encryption=none&pbk=goY3OtfaA4UYbiz7Hn0NysI5QJrK0VT_Chg6RLgUPQU&fp=chrome&type=grpc&serviceName=@LegenderY_Servers,@LegenderY_Servers,@LegenderY_Servers,@LegenderY_Servers,@LegenderY_Servers,@LegenderY_Servers,@LegenderY_Servers,@LegenderY_Servers,@LegenderY_Servers,@LegenderY_Servers,@LegenderY_Servers&sni=account.zula.ir&sid=7cddfba1#Reality+1
+
+vless://AmirTechno_Service@[::ffff:58c6:7a89]:2096?type=tcp&security=reality&fp=chrome&pbk=_PsRfUWX-j_bKh7Xb7w2RpQAIzeNTmQf9F0F-Rg0j1Y&sni=cdn.accuweather.com&flow=xtls-rprx-vision-udp443&sid=7060d516&spx=%2Fen%2Fde%2Fnuremberg%2F90402%2Fweather-forecast%2F167559%2F#@AmirTechno_Service
+
+vless://AmirTechno_Service@[::ffff:416d:b1d7]:2096?type=tcp&security=reality&fp=chrome&pbk=_PsRfUWX-j_bKh7Xb7w2RpQAIzeNTmQf9F0F-Rg0j1Y&sni=cdn.accuweather.com&flow=xtls-rprx-vision-udp443&sid=7060d516&spx=%2Fen%2Fde%2Fnuremberg%2F90402%2Fweather-forecast%2F167559%2F#@AmirTechno_Service
+
 vmess://eyJhZGQiOiIxNzMuMjQ5LjcuNzAiLCJhaWQiOiIwIiwiaG9zdCI6Ind3dy5iYWlkdS5jb20iLCJpZCI6ImMyMTlmZWM2LTE2MTgtNDZhNC05ODkyLTEzMTBiMjA5Yjg5ZCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiODQ0MyIsInBzIjoi2KfYs9iq2K7Ysdin2Kwg2LTYr9mHIE5UR3JlZW5AIiwic2N5IjoiYWVzLTEyOC1nY20iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIn0=
 
 vmess://eyJhZGQiOiI1MS4xNS40Ni43OSIsImFpZCI6IjAiLCJob3N0Ijoid3d3LmJhaWR1LmNvbSIsImlkIjoiYjBiNDIwOWMtNWQ1Yi00NDk5LWEwYWMtYjk2OTA2ZmZhN2U4IiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiI0NDMiLCJwcyI6Itin2LPYqtiu2LHYp9isINi02K/ZhyBOVEdyZWVuQCIsInNjeSI6ImFlcy0xMjgtZ2NtIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Imh0dHAiLCJ2IjoiMiJ9
-
-
 
 vmess://eyJhZGQiOiIzNy4yNTIuNS4yMzQiLCJhaWQiOiIwIiwiaG9zdCI6InNvZnQ5OC5pciIsImlkIjoiODk4OTk4NmUtMjQ5NS00MDViLThhNDYtZDE3MjAzMThlMTg4IiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiI0NDMiLCJwcyI6Itin2LPYqtiu2LHYp9isINi02K/ZhyBOVEdyZWVuQCIsInNjeSI6ImFlcy0xMjgtZ2NtIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Imh0dHAiLCJ2IjoiMiJ9
